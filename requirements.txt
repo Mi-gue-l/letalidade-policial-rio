@@ -1,0 +1,18 @@
+# Ambiente congelado (pip freeze do ambiente em que o pipeline foi executado e validado)
+# Python 3.13 (compatível com >= 3.11). Instalação: pip install -r requirements.txt
+contourpy==1.4.0
+cycler==0.12.1
+fonttools==4.67.0
+Jinja2==3.1.6
+kiwisolver==1.5.1
+MarkupSafe==3.0.3
+matplotlib==3.11.2
+numpy==2.5.3
+packaging==26.3
+pandas==3.0.5
+pillow==12.3.0
+pyparsing==3.3.3
+python-calamine==0.8.2
+python-dateutil==2.9.0.post0
+scipy==1.18.1
+six==1.17.0

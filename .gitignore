@@ -1,0 +1,21 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Dados brutos grandes (>50 MB) devem ser baixados por script; o .xls deste projeto é pequeno e versionado
+# data/raw/*.csv

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Se você usar este trabalho, cite-o como abaixo."
+title: "Vítimas de intervenção policial no Município do Rio de Janeiro, 1º quadrimestre de 2003 a 2022"
+type: software
+authors:
+  - family-names: "Amaral"
+    given-names: "Miguel Garcia Lopes do"
+version: 1.0.0
+date-released: 2026-11-18
+license: MIT
+repository-code: "https://github.com/Mi-gue-l/letalidade-policial-rio"
+url: "https://mi-gue-l.github.io/letalidade-policial-rio/"
+keywords:
+  - segurança pública
+  - letalidade policial
+  - Rio de Janeiro
+  - análise exploratória de dados
+  - ciência aberta
+  - FAIR
